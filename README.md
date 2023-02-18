@@ -40,7 +40,7 @@ npm run dev
 
 ## Deployed Version
 
-A deployed version of the project is available at <a href="https://fiverr-clone-seven.vercel.app" target="_blank">https://fiverr-clone-seven.vercel.app</a>
+A deployed version of the project is available at <a href="https://fiverr-clone-seven.vercel.app" target="_blank" rel="noopener noreferrer">https://fiverr-clone-seven.vercel.app</a>
 
 ## Built With
 
