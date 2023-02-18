@@ -1,0 +1,18 @@
+.custom-slider .carousel-initialized {
+  position: static;
+}
+
+.custom-slider .carousel-prev,
+.custom-slider .carousel-next {
+  width: 50px;
+  height: 50px;
+  background-color: #f3f3f3;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.custom-slider .carousel-prev {
+  left: -25px;
+}
