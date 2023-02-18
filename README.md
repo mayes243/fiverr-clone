@@ -38,6 +38,10 @@ npm run dev
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the app running.
 
+## Deployed Version
+
+A deployed version of the project is available at [https://fiverr-clone-seven.vercel.app](https://fiverr-clone-seven.vercel.app).
+
 ## Built With
 
 This project was built with:
